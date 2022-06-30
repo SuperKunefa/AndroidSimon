@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simon</string>
+    <string name="exit_alert">Are you sure you want to exit?</string>
+    <string name="exit_app_alert">Are you sure you want to exit from the application?</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+    <string name="dialog_tag">d</string>
+</resources>
